@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NFA.dir/src/Estado.cpp.o CMakeFiles/NFA.dir/src/main.cpp.o CMakeFiles/NFA.dir/src/NFA.cpp.o  -o NFA 

@@ -1,0 +1,3 @@
+/home/darkwaycode/Escritorio/Cya/NFA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darkwaycode/Escritorio/Cya/NFA/cmake-build-debug/CMakeFiles/NFA.dir
+/home/darkwaycode/Escritorio/Cya/NFA/cmake-build-debug/CMakeFiles/edit_cache.dir

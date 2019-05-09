@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkwaycode/Escritorio/Cya/NFA/include/Estado.h
+set
+-
+iostream
+-
+iterator
+-
+
+/home/darkwaycode/Escritorio/Cya/NFA/include/NFA.h
+Estado.h
+/home/darkwaycode/Escritorio/Cya/NFA/include/Estado.h
+fstream
+-
+vector
+-
+
+/home/darkwaycode/Escritorio/Cya/NFA/src/Estado.cpp
+../include/Estado.h
+/home/darkwaycode/Escritorio/Cya/NFA/include/Estado.h
+
+/home/darkwaycode/Escritorio/Cya/NFA/src/NFA.cpp
+../include/NFA.h
+/home/darkwaycode/Escritorio/Cya/NFA/include/NFA.h
+
+/home/darkwaycode/Escritorio/Cya/NFA/src/main.cpp
+iostream
+-
+../include/NFA.h
+/home/darkwaycode/Escritorio/Cya/NFA/include/NFA.h
+
